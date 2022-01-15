@@ -41,6 +41,7 @@ build {
       "node -v",
       "echo 'La versión de npm es la siguiente:' ",
       "npm -v",
+      "curl -O https://raw.githubusercontent.com/jsgiraldoh/packer_tutorial/main/hello.js"
     ]
   }
 }

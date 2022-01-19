@@ -122,4 +122,24 @@ Capturas
 
 <img src="/img/1.png" title="1.png" name="1.png"/><br>
 
-<img src="../img/2.png" title="2.png" name="2.png"/><br>
+<img src="/img/2.png" title="2.png" name="2.png"/><br>
+
+<img src="/img/3.png" title="3.png" name="3.png"/><br>
+
+<img src="/img/4.png" title="4.png" name="4.png"/><br>
+
+<img src="/img/5.png" title="5.png" name="5.png"/><br>
+
+<img src="/img/6.png" title="6.png" name="6.png"/><br>
+
+<img src="/img/7.png" title="7.png" name="7.png"/><br>
+
+<img src="/img/8.png" title="8.png" name="8.png"/><br>
+
+<img src="/img/9.png" title="9.png" name="9.png"/><br>
+
+<img src="/img/10.png" title="10.png" name="10.png"/><br>
+
+<img src="/img/11.png" title="11.png" name="11.png"/><br>
+
+<img src="/img/12.png" title="12.png" name="12.png"/><br>

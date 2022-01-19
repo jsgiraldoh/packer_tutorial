@@ -116,3 +116,10 @@ Como aborde la solución de este requerimiento:
     ~~~
     pm2 start hello.js
     ~~~
+
+Capturas
+===
+
+<img src="/img/1.png" title="1.png" name="1.png"/><br>
+
+<img src="../img/2.png" title="2.png" name="2.png"/><br>
